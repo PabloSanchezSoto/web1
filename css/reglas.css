@@ -1,0 +1,97 @@
+body {
+	background-color: #ddd;
+	border-radius: 15px;
+	text-align: center;
+}
+h1{
+	color: orange;
+	text-align: center;
+}
+.p1{
+	text-align: center;
+	color: black;
+	background-color:#C3C3C3;
+	margin-bottom: 0px;
+  	margin-top: 0px;
+}
+.menu{
+	display: flex;
+	border-color: black;
+	border: 1px;
+	background-color: orange;
+	width: 100%;
+	padding-top: 3px;
+    padding-bottom: 3px;
+
+}
+div.meni img{
+	right: auto;
+}
+div.menu a{
+	text-align: center;
+	font-size: 25;
+	color: white;
+	text-decoration: blink;
+	border: 2px dashed;
+	border-color: white;
+	width: 10%;
+	height: 4%;
+	margin-right: 2%;
+	margin-left: 2%;
+	margin-top: 1%;
+	margin-bottom: 1%;
+	padding-top: 1%;
+	padding-bottom: 1%;
+	padding-left: 8%;
+	padding-right: 8%;
+}
+
+table.opcines{
+	float: inherit;
+}
+table.opcines h2{
+	color: #9B9B9B;
+	text-align: center;
+	width: 100px;
+	height: 28px;
+	margin-top: 2px;
+	margin-right: 5px;
+	margin-left: 5px
+}
+
+table.opciones img{
+	display: inline;
+	margin-top: 2px;
+	margin-right: 5px;
+	margin-left: 5px
+} 
+.marco{
+	margin: 30%;
+	margin-top: 0px;
+	padding-bottom: 10px;
+	text-align: center;
+	border: 2px solid;
+	border-color: orange;
+	border-radius: 15px;
+	background-color: #FFE0CC;
+}
+div.marco h1{
+	color: white;
+	text-align: center;
+	background-color: orange;
+	margin-top: auto;
+}
+div.marco input{
+	margin-bottom: 15px;
+	margin-top: 5px;
+	font-size: 15px;
+}
+div.marco a{
+	border: 1px solid;
+	border-color: gray; 
+	font-size: 25;
+	color: white;
+	text-decoration: blink;
+	background-color: orange;
+	margin-top: 35px;
+}
